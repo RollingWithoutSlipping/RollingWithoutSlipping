@@ -1,5 +1,6 @@
-## Hi there 👋
+## Rolling Without Slipping
 
+Hey. This is where I keep my library, among other things.
 <!--
 **RollingWithoutSlipping/RollingWithoutSlipping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
